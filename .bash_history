@@ -160,3 +160,80 @@ ls
 sudo cd webapps/
 ls
 sudo su -
+ls
+uname -a
+yum
+ls
+clear
+sudo yum install git
+ls
+git add .
+git init
+git add .
+git commit -m "first commit"
+git status
+git commit
+git config
+git config --global
+ls
+git config
+git config --global
+git commit
+git config --global user.email "rung@shaklee.com"
+git config --global user.name "Ryan U"
+git commit
+git status
+git push origin master
+git remote add origin
+git remote add origin https://github.com/ITguyRy/testing.git
+git push -u origin master
+ls
+vim x
+date >> x
+ls
+vim x
+date > x
+vim x
+git push -u origin master
+git commit
+git add .
+git commit
+git push -u origin master
+ls
+vim x
+ls -l
+ls
+vim 1
+rm 1
+ls
+vim x
+date > x
+cat x
+git commit
+git add x
+git commit
+git commit -m "test jenkins"
+ls
+git push origin master
+cat x
+cd /root/.jenkins/workspace/test
+ls
+cd /root/.jenkins/
+sudo cd /root/jenkins/workspace/test
+sudo su -
+ls
+cat cx
+cat x
+ls
+ping www.google.com
+ifconfig
+ipconfig
+config
+ls
+ifconf
+ipconfig
+ifconfig
+ip addr show
+ls
+ls -l
+ls
