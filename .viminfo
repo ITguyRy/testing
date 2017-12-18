@@ -21,13 +21,41 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	>>>>>>> 63077d7e3ed971fe79f438bca0e40dfc74d97910
+"2	LINE	0
+	1
+"3	LINE	0
+	Mon Dec  4 20:05:09 UTC 2017
+"4	LINE	0
+	=======
+"5	LINE	0
+	xHELLO Mon Dec  4 20:05:09 UTC 2017
+"6	LINE	0
+	<<<<<<< HEAD
 
 # File marks:
-'0  1  0  ~/x
+'0  1  21  ~/x
 '1  1  0  ~/1
 
 # Jumplist (newest first):
--'  1  0  ~/x
+-'  1  21  ~/x
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
+-'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
@@ -48,10 +76,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/x
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
 
 > ~/1
 	"	1	0
