@@ -237,3 +237,82 @@ ip addr show
 ls
 ls -l
 ls
+git status
+ls
+cat x
+vim x
+git add .
+git commit
+git push origin master
+git push
+git push origin 
+git push 
+git
+ls
+git status
+git push
+git config --global push.default matching
+git push
+git config --global push.default simple
+git pus
+git push
+git push origin master
+git push origin 
+ls
+cat x
+git push
+ping 8.8.8.8
+ls
+ping www.google.com
+ping www.yahoo.com
+iptables -F
+sudo iptables -F
+ping www.google.com
+ping 10.138.0.11
+ping 10.138.0.2
+ping 8.8.8.8
+ping 0.0.0.0
+ping www.google.com
+ls
+ping www.google.com
+ls
+ssh 10.240.0.2
+ping www.google.com
+ping ping http-proxy-0
+ping http-proxy-0
+ping www.google.com
+ssh 10.138.0.20
+sudo ssh 10.138.0.20
+ls
+ping www.google.com
+ls
+yum
+ls
+uname -a
+yum update
+sudo yum update
+kill 6990
+sudo kill 6990
+sudo yum update
+ping www.google.com
+ssh nat-gateway
+ls
+ping www.google.com
+sudo yum update
+ping www.google.com
+sudo yum update
+iptables
+iptables -h
+ping www.github.com
+exit
+httpd status
+service httpd start
+sudo su -
+ls
+sudo su -
+ls
+cd /
+ls
+sudo su -
+service httpd restart
+sudo su -

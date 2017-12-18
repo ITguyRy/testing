@@ -1,3 +1,5 @@
 [user]
 	email = rung@shaklee.com
 	name = Ryan U
+[push]
+	default = simple
