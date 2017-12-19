@@ -375,3 +375,51 @@ C
 l;lalsd
 da
 d
+git fetch --tags --progress https://github.com/ITguyRy/testing.git +refs/heads/*:refs/remotes/origin/*
+ls
+sudo su -
+ls
+git clone https://github.com/ITguyRy/testing.git
+ls
+sudo su -
+ls
+ git remote show origin 
+git remote show origin
+export http_proxy=http://proxy:8080
+git config -- system get http.proxy
+git config --system get http.proxy
+git config --system --get http.proxy
+git config --system --unset http.proxy
+sudo git config --system --unset http.proxy
+git config --system --add http.proxy http://35.203.155.200:8080
+sudo su -
+ls
+git fetch --tags --progress http://github.com/ITguyRy/testing.git +refs/heads/*:refs/remotes/origin/*
+ls
+ssh /
+cd 
+cd /
+ls
+cd jenkins-tomapache/
+ls
+cd lib
+ls
+cat RUNNING.txt 
+sudo su -
+exit
+su jenkins
+ls
+cd /
+cd home/
+l;s
+ls
+su hello
+ls -la
+su jenkins
+sudo passwd jenkins
+su jenkins
+whoami8
+whoami
+su - jenkins
+ls
+exit
