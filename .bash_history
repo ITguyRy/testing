@@ -316,3 +316,62 @@ ls
 sudo su -
 service httpd restart
 sudo su -
+ls
+cd /
+ls
+sudo su -
+ls
+cd ~
+ls
+vim x
+git status
+git add .
+git status
+git commit
+git status
+git push origin master
+git pull
+git status
+ls
+git commit
+git commit -a
+git pull
+ls
+cat xs
+cat x
+ls
+git push
+git push origin master
+ls
+yes
+qsudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo;2
+ls
+vim x
+git commit
+git add .
+git commit
+git push origin master
+jenkins su
+jenkin su
+su jenkins
+sudo passwd jenkins
+ls
+su jenkins
+git ls-remote -h git@bitbucket.org:person/projectmarket.git HEAD
+git ls-remote -h git@github.com:ITguyRy/testing.git HEAD
+ps aux
+ps aux | grep "jenkins"
+top 
+ps aux
+ls
+vim x
+git add .
+git commit
+git push origin master
+yes
+no
+yes
+C
+l;lalsd
+da
+d
