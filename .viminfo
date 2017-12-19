@@ -35,15 +35,20 @@
 "6	LINE	0
 	<<<<<<< HEAD
 ""-	CHAR	0
-	i
+	/
 
 # File marks:
-'0  2  24  ~/x
-'1  29  70  /etc/passwd
-'2  1  0  ~/x
-'3  1  0  ~/1
+'0  1  10  ~/commit.sh
+'1  7  0  ~/push.sh
+'2  2  24  ~/x
+'3  29  70  /etc/passwd
+'4  1  0  ~/x
+'5  1  0  ~/1
 
 # Jumplist (newest first):
+-'  1  10  ~/commit.sh
+-'  7  0  ~/push.sh
+-'  1  0  ~/push.sh
 -'  2  24  ~/x
 -'  1  0  ~/x
 -'  29  70  /etc/passwd
@@ -138,11 +143,19 @@
 -'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
--'  1  0  ~/1
--'  1  0  ~/1
--'  1  0  ~/1
 
 # History of marks within files (newest to oldest):
+
+> ~/commit.sh
+	"	1	10
+	.	1	10
+	+	1	10
+
+> ~/push.sh
+	"	7	0
+	^	7	0
+	.	6	0
+	+	6	0
 
 > ~/x
 	"	2	24
