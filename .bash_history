@@ -423,3 +423,238 @@ whoami
 su - jenkins
 ls
 exit
+git fetch --tags --progress https://github.com/ITguyRy/testing.git +refs/heads/*:refs/remotes/origin/*
+ls
+git
+git config
+git config --global http.proxy 
+git config --global http.proxy http:35.203.155.200:80
+git config --global --unset http.proxy
+sudo su -
+ls
+echo "hihi" >> x
+ls
+cat x
+git add .
+ls
+git commit
+git push origin master
+ls
+cd /root/.jenkins
+sudo su 
+sudo su -s /bin/bash jenkins
+ls
+sudo su -s /bin/bash/jenkins
+sudo 
+sudo su - jenkins
+whoami
+ls
+vim /etc/passwd
+sudo vim /etc/passwd
+su - jenkins
+sudo su jenkins
+su jenkins
+visudo
+sudo visudo
+su jenkins
+ls
+git config
+ls
+ls -l
+ls -la
+ls
+cd /root/.jenkins/workspace
+sudo cd /root/.jenkins/workspace
+ls
+sudo su -
+ls
+cd /
+ls
+cd jenkins-tomapache/
+ls
+cd bin
+ls
+sudo cd bin
+ls
+cd bin
+sudo bin/./catalina.sh start
+ls
+cd ~/.ssh
+ls
+sudo su -
+ls
+cd /
+ls
+cd ~
+ls
+vim x
+cat x
+ls
+git add .
+git commit
+git push
+ls
+touch x
+rm x
+ls
+clear
+ls
+touch x
+ls
+echo "hi" >> x
+cat x
+ls
+cat x
+git add .
+ls
+cat x
+git commit
+git push origin master
+ls
+touch x
+echo "testing" >> x
+ls
+vim push.sh
+ls
+mv push.sh commit.sh
+ls
+vim commit.sh 
+cat x
+chmod 755 commit.sh 
+ls
+./commit.sh 
+vim commit.sh 
+./commit.sh 
+git push
+ls
+touch x
+echo "test" >> x
+./commit.sh 
+ls
+git push
+tocuh x
+touch x
+echo "hello" >> x
+./commit.sh 
+ls
+git push 
+touch x
+ls
+exit
+ssh nat-gateway
+ls
+ls ~/.ssh/
+ls
+cd ayt
+ls
+cd ~/.ssh/
+ls
+cat authorized_keys 
+vim authorized_keys 
+exit
+cd ~/.ssh/
+ls
+vim authorized_keys 
+exit
+vim ~/.ssh/authorized_keys 
+exit
+vim ~/.ssh/authorized_keys 
+ls
+vim /etc/httpd/conf/httpd.conf 
+last 
+ls
+sudo su -
+ls
+useradd tomcat
+sudo useradd tomcat
+sudo passwd tomcat
+ls
+su tomcat
+ls
+visudo
+sudo su -
+su tomcat
+sudo su -
+ls
+sudo su -
+ls
+cd ~/.ssh/
+ls
+vim authorized_keys 
+ls
+sudo su -
+su tomcat
+cd /
+sudo su
+ls
+cd /etc/de
+cd /etc/default/
+ls
+ls -la
+cd /
+ls
+cd jenkins-tomapache/
+ls
+cd lib
+ls
+sudo su -
+su tomcat
+sudo su -
+su tomcat
+sudo yum install nc
+su tomcat
+ls
+sudo su - 
+su tomcat
+ls
+sudo su -
+ls
+su tomcat
+sudo yum install nc
+ls
+su tomcat
+sudo su -
+exit
+ls
+su tomcat
+ls
+su tomcat
+ssh nat-gateway
+ssh -A -t nat-gateway ssh -A -t dvi-hyb-bo-v5
+exit
+ssh -J rung@nat-gateway rung@dvi-hyb-bo-v5
+ssh -W rung@nat-gateway rung@dvi-hyb-bo-v5
+ssh -tt rung@nat-gateway rung@dvi-hyb-bo-v5
+ssh rung@nat-gateway rung@dvi-hyb-bo-v5
+ssh nat-gateway
+ls
+su tomcat
+sudo su -
+ls
+su tomcat
+ls
+cd ./~ssh
+ls
+ls -l
+ls -la
+cd .ssh
+ls
+ssh-keygen
+ls
+vim id_rsa.pub 
+tail -f /var/log/secure
+sudo tail -f /var/log/secure
+ifconfig
+sudo yum install net-tools
+sudo yum install net-tools -y
+ifconfig
+sudo su -
+su tomcat
+ls
+cd /
+ls
+cd jenkins-tomapache/
+ls
+cd bin/
+ls
+sudo su -
