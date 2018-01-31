@@ -22,35 +22,38 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	>>>>>>> 63077d7e3ed971fe79f438bca0e40dfc74d97910
+""1	LINE	0
+	sleep 6
 "2	LINE	0
-	1
+	>>>>>>> 63077d7e3ed971fe79f438bca0e40dfc74d97910
 "3	LINE	0
-	Mon Dec  4 20:05:09 UTC 2017
+	1
 "4	LINE	0
-	=======
+	Mon Dec  4 20:05:09 UTC 2017
 "5	LINE	0
-	xHELLO Mon Dec  4 20:05:09 UTC 2017
+	=======
 "6	LINE	0
+	xHELLO Mon Dec  4 20:05:09 UTC 2017
+"7	LINE	0
 	<<<<<<< HEAD
-""-	CHAR	0
+"-	CHAR	0
 	/
 
 # File marks:
-'0  12  21  ~/commit.sh
-'1  4  0  ~/commit.sh
-'2  1  13  ~/x
-'3  1  0  ~/.ssh/id_rsa.pub
-'4  1  0  ~/.ssh/authorized_keys
-'5  281  4  /etc/httpd/conf/httpd.conf
-'6  6  0  ~/.ssh/authorized_keys
-'7  1  10  ~/commit.sh
-'8  7  0  ~/push.sh
-'9  2  24  ~/x
+'0  10  0  ~/commit.sh
+'1  11  21  ~/commit.sh
+'2  4  0  ~/commit.sh
+'3  1  13  ~/x
+'4  1  0  ~/.ssh/id_rsa.pub
+'5  1  0  ~/.ssh/authorized_keys
+'6  281  4  /etc/httpd/conf/httpd.conf
+'7  6  0  ~/.ssh/authorized_keys
+'8  1  10  ~/commit.sh
+'9  7  0  ~/push.sh
 
 # Jumplist (newest first):
--'  12  21  ~/commit.sh
+-'  10  0  ~/commit.sh
+-'  11  0  ~/commit.sh
 -'  4  0  ~/commit.sh
 -'  1  0  ~/commit.sh
 -'  1  13  ~/x
@@ -147,17 +150,17 @@
 -'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
--'  1  0  ~/1
 
 # History of marks within files (newest to oldest):
 
 > ~/commit.sh
-	"	12	21
-	^	12	22
-	.	12	21
+	"	10	0
+	^	11	22
+	.	10	0
 	+	1	10
 	+	3	15
-	+	12	21
+	+	11	21
+	+	10	0
 
 > ~/x
 	"	1	13
