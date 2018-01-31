@@ -38,25 +38,26 @@
 	/
 
 # File marks:
-'0  1  13  ~/x
-'1  1  0  ~/.ssh/id_rsa.pub
-'2  1  0  ~/.ssh/authorized_keys
-'3  281  4  /etc/httpd/conf/httpd.conf
-'4  6  0  ~/.ssh/authorized_keys
-'5  1  10  ~/commit.sh
-'6  7  0  ~/push.sh
-'7  2  24  ~/x
-'8  29  70  /etc/passwd
-'9  1  0  ~/1
+'0  4  0  ~/commit.sh
+'1  1  13  ~/x
+'2  1  0  ~/.ssh/id_rsa.pub
+'3  1  0  ~/.ssh/authorized_keys
+'4  281  4  /etc/httpd/conf/httpd.conf
+'5  6  0  ~/.ssh/authorized_keys
+'6  1  10  ~/commit.sh
+'7  7  0  ~/push.sh
+'8  2  24  ~/x
+'9  29  70  /etc/passwd
 
 # Jumplist (newest first):
+-'  4  0  ~/commit.sh
+-'  1  0  ~/commit.sh
 -'  1  13  ~/x
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/authorized_keys
 -'  281  4  /etc/httpd/conf/httpd.conf
 -'  1  0  /etc/httpd/conf/httpd.conf
 -'  6  0  ~/.ssh/authorized_keys
--'  1  10  ~/commit.sh
 -'  7  0  ~/push.sh
 -'  1  0  ~/push.sh
 -'  2  24  ~/x
@@ -150,6 +151,13 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/commit.sh
+	"	4	0
+	^	4	0
+	.	3	15
+	+	1	10
+	+	3	15
+
 > ~/x
 	"	1	13
 	^	1	14
@@ -166,11 +174,6 @@
 
 > /etc/httpd/conf/httpd.conf
 	"	281	4
-
-> ~/commit.sh
-	"	1	10
-	.	1	10
-	+	1	10
 
 > ~/push.sh
 	"	7	0
