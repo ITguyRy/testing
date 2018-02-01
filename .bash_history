@@ -658,3 +658,93 @@ ls
 cd bin/
 ls
 sudo su -
+ls
+cd ~
+ls
+ls -la
+ls
+vim x
+git push origin master
+clear
+git push origin master
+ls
+git add .
+git commit
+git push origin master
+git commit
+git push origin master
+git add .
+git commit
+ls
+git add .
+git commit
+echo "test" >> x 
+git add .
+git commit 
+git push origin master
+echo "testing" >> x 
+ls
+./commit.sh 
+git push origin master
+echo "tes" >> x 
+./commit.sh 
+git push origin master
+echo "xxx" > x 
+./commit.sh 
+git push origin master
+echo "xxx" > x 
+./commit.sh 
+echo "xx" > x 
+./commit.sh 
+git push origin master
+echo "x" > x 
+./commit.sh 
+git push origin master
+echo "xxx" > x 
+git push origin master
+./commit.sh 
+git push origin master
+echo "x" > x 
+echo date > x 
+./commit.sh 
+git push origin master
+echo date > x 
+./commit.sh 
+echo date > x 
+cat x
+echo | date > x 
+cat x
+echo | date > x 
+./commit.sh 
+git push origin master
+echo | date > x 
+./commit.sh 
+git push origin master
+echo | date > x 
+./commit.sh 
+echo | date > x 
+git push origin master
+ls
+;s
+ks
+ls
+cd /var/log/
+ls
+cat secure
+sudo tail -f secure
+cd ~
+ls
+echo | date > x
+./commit.sh 
+git push origin master
+sudo tail -f /var/log/secure
+echo | date > x
+git push origin master
+echo | date > x
+ls
+vim commit.sh 
+./commit.sh 
+vim commit.sh 
+./commit.sh 
+vim commit.sh 
+./commit.sh 
