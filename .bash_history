@@ -748,3 +748,5 @@ vim commit.sh
 ./commit.sh 
 vim commit.sh 
 ./commit.sh 
+ls
+./commit.sh 
