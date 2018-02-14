@@ -752,3 +752,12 @@ ls
 ./commit.sh 
 ls
 ./commit.sh 
+ls
+sudo su -
+ls
+cat testing/
+ls
+./commit.sh 
+ls
+ps aux | grep splunk
+exit
