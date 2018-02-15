@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:wq!
 :q!
+:wq!
 :q
 :wq
 
@@ -40,18 +40,19 @@
 	/
 
 # File marks:
-'0  10  0  ~/commit.sh
-'1  11  21  ~/commit.sh
-'2  4  0  ~/commit.sh
-'3  1  13  ~/x
-'4  1  0  ~/.ssh/id_rsa.pub
-'5  1  0  ~/.ssh/authorized_keys
-'6  281  4  /etc/httpd/conf/httpd.conf
-'7  6  0  ~/.ssh/authorized_keys
-'8  1  10  ~/commit.sh
-'9  7  0  ~/push.sh
+'0  1  0  /opt/splunkforwarder/etc/system/local/outputs.conf
+'1  10  0  ~/commit.sh
+'2  11  21  ~/commit.sh
+'3  4  0  ~/commit.sh
+'4  1  13  ~/x
+'5  1  0  ~/.ssh/id_rsa.pub
+'6  1  0  ~/.ssh/authorized_keys
+'7  281  4  /etc/httpd/conf/httpd.conf
+'8  6  0  ~/.ssh/authorized_keys
+'9  1  10  ~/commit.sh
 
 # Jumplist (newest first):
+-'  1  0  /opt/splunkforwarder/etc/system/local/outputs.conf
 -'  10  0  ~/commit.sh
 -'  11  0  ~/commit.sh
 -'  4  0  ~/commit.sh
@@ -67,7 +68,6 @@
 -'  2  24  ~/x
 -'  29  70  /etc/passwd
 -'  1  0  /etc/passwd
--'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
 -'  1  0  ~/1
