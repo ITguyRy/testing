@@ -761,3 +761,12 @@ ls
 ls
 ps aux | grep splunk
 exit
+ls
+sudo su -
+exit
+ls
+./commit.sh 
+exit
+ls
+ps aug | grep splunk
+sudo su -
