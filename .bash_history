@@ -770,3 +770,23 @@ exit
 ls
 ps aug | grep splunk
 sudo su -
+ls
+./commit.sh 
+ls
+sudo su -
+ls
+./commit.sh 
+ls
+sudo su - 
+ls
+./commit.sh 
+cd /opt/splunkforwarder
+ls
+cd etc/
+ls
+cd system/
+ls
+cd local/
+ls
+vim outputs.conf 
+sudo su -
